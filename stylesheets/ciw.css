@@ -1,5 +1,5 @@
 html {
-  /*  :background-image url('/images/ciw-bg.png') */
+  /*  :background-image url('../images/ciw-bg.png') */
   font-family: "Trade Gothic", Arial, Helvetica, sans-serif;
   font-size: 10pt;
   text-align: center;
@@ -41,7 +41,7 @@ body {
     font-size: 20px; }
     #header ul#nav li a, #header ul#nav li a:hover, #header ul#nav li a:active, #header ul#nav li a:visited {
       color: #999999;
-      background-image: url("/images/star-off.png");
+      background-image: url("../images/star-off.png");
       background-repeat: no-repeat;
       padding-left: 30px;
       padding-bottom: 5px;
@@ -51,7 +51,7 @@ body {
   #header ul#nav li.current a, #header ul#nav li.current a:hover, #header ul#nav li.current a:active, #header ul#nav li.current a:visited {
     color: #333333; }
   #header ul#nav li.current a {
-    background-image: url("/images/star-on.png"); }
+    background-image: url("../images/star-on.png"); }
   #header ul#nav li.home {
     margin-left: 300px;
     padding-right: 15px; }
@@ -59,7 +59,7 @@ body {
     padding-right: 15px; }
 
 #main {
-  background-image: url("/images/blue-gradient.png");
+  background-image: url("../images/blue-gradient.png");
   background-repeat: repeat-x;
   padding-top: 150px;
   padding: 150px 30px 30px 30px;
@@ -116,7 +116,7 @@ body {
       text-align: center;
       color: black; }
     #main div#proclamation .close {
-      background-image: url(/images/apple-close.png);
+      background-image: url(../images/apple-close.png);
       position: absolute;
       right: -15px;
       top: -15px;

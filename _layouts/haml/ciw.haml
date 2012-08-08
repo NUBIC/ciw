@@ -2,8 +2,8 @@
 %html
   %head
     %title Chicago Informatics Week :: Oct. 30 - Nov. 7, 2012
-    %link{:type => "text/css", :rel => "stylesheet", :media => "all", :href => '../stylesheets/reset-revised.css'}
-    %link{:type => "text/css", :rel => "stylesheet", :media => "all", :href => '../stylesheets/ciw.css'}
+    %link{:type => "text/css", :rel => "stylesheet", :media => "all", :href => './stylesheets/reset-revised.css'}
+    %link{:type => "text/css", :rel => "stylesheet", :media => "all", :href => './stylesheets/ciw.css'}
     %script{:type => "text/javascript", :src => "http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js"}
     %script{:type => "text/javascript"}
       $(document).ready(function() {
@@ -14,7 +14,7 @@
     #header
       #logo
         %a{:href => './index.html'}
-          %img{:src => '/images/chicago-informatics-week-white.png'}
+          %img{:src => './images/chicago-informatics-week-white.png'}
       %ul#nav
         {% for link in site.navigation %}
         {% assign current = nil %}

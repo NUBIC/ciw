@@ -9,7 +9,7 @@ October 30 - November 7, 2012
 <br />
 <b>Informatics Week in Chicago.</b>
 </h4>
-<p class='proclamation'><img alt="PROCLAMATION" rel="#proclamation" src="/images/proclamation-sm.png"/></p>
+<p class='proclamation'><img alt="PROCLAMATION" rel="#proclamation" src="./images/proclamation-sm.png"/></p>
 <br class='clearleft' />
 
 Informatics Week in Chicago is the first-ever city-wide celebration of its kind.  It is designed to showcase Chicago's diverse Biomedical and Health Informatics education, training, research and development entities and to develop special event programming in conjunction with the world's premier scientific meeting for biomedical and health informatics, the [AMIA 2012 Annual Symposium](http://www.amia.org/amia2012), November 3-7.  Planned events include lectures, seminars, tours of informatics research facilities, and other activities highlighting informatics in Chicago.
@@ -35,5 +35,5 @@ Chicago is home to thousands of healthcare informatics professionals, numerous m
     NOW, THEREFORE, I RAHM EMANUEL, MAYOR OF THE CITY OF CHICAGO, do hereby proclaim October 30- November 7, 2012 to be INFORMATICS WEEK IN CHICAGO, and urge all Chicagoans to make an effort to participate in the activities highlighting the role of informatics in improving the quality, safety and cost effectiveness of health care in Chicago and the United States.
     Dated this 23rd day of May, 2012.
     Rahm Emanuel
-    Mayor" src="/images/proclamation.png"/>
+    Mayor" src="./images/proclamation.png"/>
 </div>
