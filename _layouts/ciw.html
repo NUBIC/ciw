@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <title>Chicago Informatics Week :: Oct. 30 - Nov. 7, 2012</title>
+    <link href='../stylesheets/reset-revised.css' media='all' rel='stylesheet' type='text/css' />
+    <link href='../stylesheets/ciw.css' media='all' rel='stylesheet' type='text/css' />
+    <script src='http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js' type='text/javascript'></script>
+    <script type='text/javascript'>
+      $(document).ready(function() {
+      $("img[rel]").overlay();
+      });
+    </script>
+  </head>
+  <body>
+    <div id='header'>
+      <div id='logo'>
+        <a href='./index.html'>
+          <img src='/images/chicago-informatics-week-white.png' />
+        </a>
+      </div>
+      <ul id='nav'>
+        {% for link in site.navigation %}
+        {% assign current = nil %}
+        {% if page.url == link.url %}
+        {% assign current = 'current' %}
+        {% endif %}
+        <li class='{{ link.css_class }} {{ current }}'>
+          <a href='.{{ link.url }}'>{{ link.text }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div id='main'>
+      {{ content }}
+    </div>
+    <div id='footer'>
+      <div class='twitter'>
+        <a href="https://twitter.com/InformaticsWeek" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @InformaticsWeek</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      </div>
+      <p class='contacts'>
+        Contacts:
+        <br />
+        <br />
+        Press and Media:
+        <a href='mailto:Krista@amia.org'>Krista Martin</a>
+        <br />
+        Sponsorship:
+        <a href='mailto:Jonathan@amia.org'>Jonathan Grau</a>
+        <br />
+        Website:
+        <a href='mailto:informatics-webmaster@nubic.northwestern.edu'>Webmaster</a>
+      </p>
+      <p class='links'>
+        Hosted by:
+        <br />
+        <br />
+        <a href='http://www.preventivemedicine.northwestern.edu/divisions/hbmi/'>Division of Health and Biomedical Informatics</a>
+        <br />
+        Department of Preventive Medicine
+        <br />
+        Feinberg School of Medicine
+        <br />
+        Northwestern University
+        <br />
+        750 N. Lake Shore Drive, 11th Floor
+        <br />
+        Chicago, IL 60611
+      </p>
+      <br class='clear' />
+    </div>
+  </body>
+  <script type='text/javascript'>
+    //<![CDATA[
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-24101718-2']);
+      _gaq.push(['_trackPageview']);
+      
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    //]]>
+  </script>
+</html>

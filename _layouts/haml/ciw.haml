@@ -1,0 +1,70 @@
+!!!
+%html
+  %head
+    %title Chicago Informatics Week :: Oct. 30 - Nov. 7, 2012
+    %link{:type => "text/css", :rel => "stylesheet", :media => "all", :href => '../stylesheets/reset-revised.css'}
+    %link{:type => "text/css", :rel => "stylesheet", :media => "all", :href => '../stylesheets/ciw.css'}
+    %script{:type => "text/javascript", :src => "http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js"}
+    %script{:type => "text/javascript"}
+      $(document).ready(function() {
+      $("img[rel]").overlay();
+      });
+
+  %body
+    #header
+      #logo
+        %a{:href => './index.html'}
+          %img{:src => '/images/chicago-informatics-week-white.png'}
+      %ul#nav
+        {% for link in site.navigation %}
+        {% assign current = nil %}
+        {% if page.url == link.url %}
+        {% assign current = 'current' %}
+        {% endif %}
+        %li{:class => '{{ link.css_class }} {{ current }}'}
+          %a{:href=>'.{{ link.url }}'} {{ link.text }}
+        {% endfor %}
+    #main
+      {{ content }}
+    #footer
+      .twitter
+        ! <a href="https://twitter.com/InformaticsWeek" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @InformaticsWeek</a>
+        ! <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      %p.contacts
+        Contacts:
+        %br
+        %br
+        Press and Media:
+        %a{:href => "mailto:Krista@amia.org"} Krista Martin
+        %br
+        Sponsorship:
+        %a{:href => "mailto:Jonathan@amia.org"} Jonathan Grau
+        %br
+        Website:
+        %a{:href => "mailto:informatics-webmaster@nubic.northwestern.edu"} Webmaster
+      %p.links
+        Hosted by:
+        %br
+        %br
+        %a{:href => "http://www.preventivemedicine.northwestern.edu/divisions/hbmi/"} Division of Health and Biomedical Informatics
+        %br
+        Department of Preventive Medicine
+        %br
+        Feinberg School of Medicine
+        %br
+        Northwestern University
+        %br
+        750 N. Lake Shore Drive, 11th Floor
+        %br
+        Chicago, IL 60611
+      %br.clear
+  :javascript
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-24101718-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();

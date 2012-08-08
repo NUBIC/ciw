@@ -1,0 +1,18 @@
+markdown: rdiscount
+exclude: Rakefile, Readme.md, *.sass
+navigation:
+- text: Home
+  url: /index.html
+  css_class: home
+- text: About
+  url: /about.html
+  css_class: about
+- text: Events
+  url: /events.html
+  css_class: events
+- text: Sponsors
+  url: /sponsors.html
+  css_class: sponsors
+- text: Media
+  url: /media.html
+  css_class: media

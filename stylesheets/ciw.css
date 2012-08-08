@@ -1,0 +1,154 @@
+html {
+  /*  :background-image url('/images/ciw-bg.png') */
+  font-family: "Trade Gothic", Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  text-align: center;
+  background-color: #666666; }
+
+body {
+  background-color: white;
+  -moz-box-shadow: 0px 5px 5px 6px #333333;
+  -webkit-box-shadow: 0px 5px 5px 6px #333333;
+  box-shadow: 0px 5px 5px 6px #333333;
+  width: 900px;
+  margin: 0 auto;
+  margin-top: 150px;
+  text-align: left; }
+  body a, body a:hover, body a:active, body a:visited {
+    color: blue;
+    text-decoration: none; }
+  body a:hover, body a:active, body a:visited {
+    text-decoration: underline; }
+
+.clear {
+  clear: both; }
+
+#header, #main, #footer {
+  text-align: left;
+  position: relative; }
+
+#header {
+  padding: 10px 30px;
+  height: 20px; }
+  #header #logo img {
+    position: absolute;
+    margin-left: -30px;
+    margin-top: -162px;
+    z-index: 9; }
+  #header ul#nav li {
+    list-style: none;
+    display: inline;
+    font-size: 20px; }
+    #header ul#nav li a, #header ul#nav li a:hover, #header ul#nav li a:active, #header ul#nav li a:visited {
+      color: #999999;
+      background-image: url("/images/star-off.png");
+      background-repeat: no-repeat;
+      padding-left: 30px;
+      padding-bottom: 5px;
+      text-decoration: none; }
+    #header ul#nav li a:hover {
+      color: #333333; }
+  #header ul#nav li.current a, #header ul#nav li.current a:hover, #header ul#nav li.current a:active, #header ul#nav li.current a:visited {
+    color: #333333; }
+  #header ul#nav li.current a {
+    background-image: url("/images/star-on.png"); }
+  #header ul#nav li.home {
+    margin-left: 300px;
+    padding-right: 15px; }
+  #header ul#nav li.about, #header ul#nav li.events, #header ul#nav li.sponsors {
+    padding-right: 15px; }
+
+#main {
+  background-image: url("/images/blue-gradient.png");
+  background-repeat: repeat-x;
+  padding-top: 150px;
+  padding: 150px 30px 30px 30px;
+  clear: both;
+  color: #333333; }
+  #main h2, #main h3, #main h4, #main p, #main ul, #main li {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em; }
+  #main p {
+    font-size: 115%;
+    line-height: 125%; }
+  #main h2 {
+    font-size: 130%;
+    color: #999999; }
+  #main h3 {
+    font-size: 145%;
+    color: #3c3d36; }
+  #main h4 {
+    font-size: 165%;
+    line-height: 135%;
+    color: #555555;
+    font-weight: normal; }
+  #main li {
+    list-style-type: circle;
+    font-size: 115%;
+    margin-left: 1.5em; }
+  #main .declared {
+    float: left; }
+  #main .proclamation {
+    float: right;
+    margin-left: 2em;
+    border: 1px solid #dddddd;
+    cursor: hand;
+    cursor: pointer; }
+    #main .proclamation:hover {
+      border: 1px solid blue; }
+  #main br.clearleft {
+    clear: left; }
+  #main div#proclamation {
+    background: white;
+    display: none;
+    font-family: "Times New Roman";
+    padding: 50px;
+    z-index: 999;
+    width: 600px;
+    min-height: 400px;
+    border: 1px solid #666666;
+    -moz-box-shadow: 0 0 90px 6px black;
+    -webkit-box-shadow: 0 0 90px 6px black;
+    box-shadow: 0 0 90px 6px black; }
+    #main div#proclamation p {
+      margin-top: 1.5em; }
+    #main div#proclamation h2 {
+      text-align: center;
+      color: black; }
+    #main div#proclamation .close {
+      background-image: url(/images/apple-close.png);
+      position: absolute;
+      right: -15px;
+      top: -15px;
+      cursor: pointer;
+      height: 28px;
+      width: 28px; }
+  #main h3.sponsors {
+    background-color: #3c3d36;
+    color: white;
+    font-weight: normal;
+    padding: 0.2em; }
+  #main ul.sponsors {
+    clear: both; }
+    #main ul.sponsors li {
+      font-size: 100%;
+      list-style: none;
+      margin-top: 1.5em; }
+      #main ul.sponsors li div.logo {
+        float: left;
+        width: 30%; }
+      #main ul.sponsors li div.description {
+        float: left;
+        width: 60%; }
+        #main ul.sponsors li div.description p {
+          margin-top: 0; }
+
+#footer {
+  color: #999999;
+  margin-top: 50px;
+  border-top: 1px dotted #cccccc;
+  padding: 30px; }
+  #footer .twitter, #footer .links, #footer .contacts {
+    float: left;
+    width: 33%;
+    margin-bottom: 1em; }
