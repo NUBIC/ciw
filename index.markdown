@@ -16,7 +16,7 @@ Informatics Week in Chicago is the first-ever city-wide celebration of its kind.
 
 ### Informatics is&#8230;
 
-Biomedical informatics is the interdisciplinary field that focuses on the collection, organization and application of information to answer questions, solve problems, and improve human health and the delivery of healthcare services.   The discipline intersects information science, computer science, biomedical research and health care. Informatics has been identified as a growing job field. Informatics has been identified as one of the hottest growth fields. A [study](http://www.jff.org/publications/education/growing-jobs-sector-health-informatics/1432) recently by Burning Glass for Credentials that Work noted that job posting for Health Care Informatics have [increased by 36 percent from 2007 to 2011](http://www.cmio.net/index.php?option=com_articles&view=article&id=34222).
+Biomedical informatics is the interdisciplinary field that focuses on the collection, organization and application of information to answer questions, solve problems, and improve human health and the delivery of healthcare services.   The discipline intersects information science, computer science, biomedical research and health care. Informatics has been identified as a growing job field. Informatics has been identified as one of the hottest growth fields. A recent [study](http://www.jff.org/publications/education/growing-jobs-sector-health-informatics/1432) by Burning Glass for Credentials that Work noted that job posting for Health Care Informatics have [increased by 36 percent from 2007 to 2011](http://www.cmio.net/index.php?option=com_articles&view=article&id=34222).
 
 ### Chicago is&#8230;
 
