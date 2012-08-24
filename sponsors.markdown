@@ -60,13 +60,19 @@ sponsors:
       link: http://www.amia.org/
       content:
         - "<a href='http://www.amia.org/'>The American Medical Informatics Association</a>, the leading professional association for informatics professionals, serves as the voice of the nation's top biomedical and health informatics professionals and plays an important role in medicine, health care, and science, encouraging the use of data, information and knowledge to improve both human health and delivery of healthcare services."
-    - name: Philips Healthcare
+    - name: The Academy of Nutrition and Dietetics
       acronym: and
       image: ./images/and-logo.png
       link: http://www.eatright.org/
       content:
         - "<a href='http://www.eatright.org/'>The Academy of Nutrition and Dietetics</a> (formerly the American Dietetic Association) represents the largest organization of food and nutrition professionals in the world.  Over 73,000 members practice in one or more of six different areas of practice: research, clinical nutrition, food and nutrition management, community nutrition, education and consultation/business practice.  The Academy is leveraging a decade of standardized nutrition terminology  and defined care process work to assure the inclusion of nutrition in health information technology adoption and use in the United States.  Nutrition influences 11 of the top 15 causes of death in the United States, creating a substantial opportunity to positively influence health and health care with digital data."
         - "The Academy is dedicated to working with the informatics community to create multi-disciplinary, patient centric electronic health care. Additional information is available at: <a href='http://www.eatright.org/'>www.eatright.org</a>."
+    - name: The American Academy of Pediatrics
+      acronym: aap
+      image: ./images/aap-logo.png
+      link: http://www.aap.org
+      content:
+        - "<a href='http://www.aap.org'>The American Academy of Pediatrics</a> is an organization of 60,000 pediatricians committed to the optimal physical, mental, and social health and well-being for all infants, children, adolescents, and young adults. The Academy mission is accomplished through supporting the professional needs of its members. Members include primary care pediatricians, pediatric medical subspecialists, and pediatric surgical specialists from all 50 US states, Canada, Mexico, and other territories."
     - name: American College of Surgeons
       acronym: acs
       image: ./images/acs-logo.png
