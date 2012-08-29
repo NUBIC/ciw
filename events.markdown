@@ -24,4 +24,4 @@ The [AMIA Annual Symposium](http://www.amia.org/amia2012) is the world's premier
 *	Join us for the entire meeting and take advantage of special rates*
 
 
-\*if you are a member of any of the Organizational Sponsors or a student at any of the Academic sponsor programs, please communicate to AMIA staff when registering.
+\* if you are a member of any of the Organizational Sponsors or a student at any of the Academic sponsor programs, please communicate to AMIA staff when registering.
