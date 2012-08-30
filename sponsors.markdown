@@ -79,6 +79,12 @@ sponsors:
       link: http://www.facs.org/
       content:
         - "The <a href='http://www.facs.org/'>American College of Surgeons</a> is a scientific and educational organization of surgeons that was founded in 1913 to raise the standards of surgical practice and improve the care of the surgical patient. The College is dedicated to the ethical and competent practice of surgery. Its achievements have significantly influenced the course of scientific surgery in America and have established it as an important advocate for all surgical patients. The College has more than 78,000 members and is the largest organization of surgeons in the world. For more information, visit <a href='http://www.facs.org/'>www.facs.org</a>."
+    - name: CAHIIM
+      acronym: cahiim
+      image: ./images/cahiim-logo.png
+      link: http://www.cahiim.org/
+      content:
+        - "<a href='http://www.cahiim.org/'>The Commission on Accreditation for Health Informatics and Information Management Education</a> (CAHIIM) accredits associate and baccalaureate degree programs in health information management, and masters’ degree programs in health informatics and health information management professions in the United States and Puerto Rico.  CAHIIM strives to serve students, degree-granting academic institutions, educators, health information management and informatics-related professional associations, employers and the general public through comprehensive, fair and effective accreditation activities.  All CAHIIM accredited programs exemplify academic quality, student achievement and outcomes reporting, maintain best practices for continuous quality and program improvement, and meet healthcare industry expected knowledge and skills relevant to today’s electronic health information environment.  Through its partnership with academe and the practice fields, CAHIIM serves colleges and universities in a voluntary peer review process as a means to continuously improve quality education to meet healthcare and research needs.  As a result, CAHIIM accreditation becomes the benchmark by which students and employers determine the integrity of health informatics and health information management higher education. For more information visit <a href='http://www.cahiim.org/'> www.cahiim.org </a>."
     - name: Council of Medical Specialty Societies
       acronym: cmss
       image: ./images/cmss-logo.png
