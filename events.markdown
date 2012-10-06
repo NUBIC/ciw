@@ -20,6 +20,7 @@ Please [apply today](http://www.amia.org/amia2012/student-volunteer) - all appli
 The [AMIA Annual Symposium](http://www.amia.org/amia2012) is the world's premier scientific meeting for biomedical and health informatics.  Informatics Week attendees are invited to:
 
 *	sign up for [tutorials](http://www.amia.org/amia2012/tutorials)
+* attend [presentations by Chicago Informatics Week Sponsors (full list PDF)](./chicago-talks-2.pdf)
 *	attend the AMIA 2012 Networking Meetup (Monday, November 5)
 *	Join us for the entire meeting and take advantage of special rates*
 
