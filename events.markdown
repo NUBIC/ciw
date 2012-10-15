@@ -17,7 +17,7 @@ Please [apply today](http://www.amia.org/amia2012/student-volunteer) - all appli
 
 ### October 30: Informatics Jam Session
 
-Prentice Women's Hospital, 3rd Floor, Conference Room L-South
+Prentice Women's Hospital, 250 E Superior, Chicago, IL, 3rd Floor, Conference Room L-South,
 
 Northwestern researchers will highlight their informatics research during a round of 60-90 second speed seminars.
 
