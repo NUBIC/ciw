@@ -15,28 +15,28 @@ AMIA has now opened the call for current student members who would like to take 
 
 Please [apply today](http://www.amia.org/amia2012/student-volunteer) - all applicants will be notified of volunteer decisions on Tuesday, September 11, 2012.
 
-### October 30: Informatics Jam Session
+### Tuesday, October 30: Informatics Jam Session
 
 Prentice Women's Hospital, 250 E Superior, Chicago, IL, 3rd Floor, Conference Room L-South
 
 Northwestern researchers will highlight their informatics research during a round of 60-90 second speed seminars.
 
 
-### October 31: "Big data: yesterday, today, and tomorrow"
+### Wednesday, October 31: "Big data: yesterday, today, and tomorrow"
 
 Diego Klabjan, PhD, Professor of Industrial Engineering and Management Sciences
 
 Lakeview Conference Room, Rubloff Building, 11th Floor, 750 N Lake Shore Drive, Chicago, IL
 
 
-### November 1: "Deploying translational bioinformatics approaches in RNA sequencing"
+### Thursday, November 1: "Deploying translational bioinformatics approaches in RNA sequencing"
 
 Yves Lussier, MD, Professor of Medicine and Engineering
 
 Lakeview Conference Room, Rubloff Building, 11th Floor, 750 N Lake Shore Drive, Chicago, IL
 
 
-### November 2: (Presentation TBD)
+### Friday, November 2: (Presentation TBD)
 
 Sam Volchenboum, MD, PhD, Assistant Professor of Pediatrics
 
