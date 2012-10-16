@@ -5,8 +5,8 @@ title: Events
 
 Informatics Week in Chicago is made possible through the generous support and hard work of our Sponsors.  Activities will provide opportunities to learn more about informatics as a field, learn about career opportunities, and see cutting-edge research.  To include an activity on this list, [send us the details](mailto:informatics-webmaster@nubic.northwestern.edu) and include a contact for further information.
 
-##Tuesday, October 30, 4:00-5:00 p.m.
-### Informatics Jam Session
+### Tuesday, October 30, 4:00-5:00 p.m.
+##Informatics Jam Session
 
 Prentice Women's Hospital, 250 E Superior, Chicago, IL, 3rd Floor, Conference Room L-South
 
@@ -16,8 +16,8 @@ A reception will follow in the Atrium.
 
 
 
-##Wednesday, October 31, 4:00-5:00 p.m.
-###"Big data: yesterday, today, and tomorrow"
+### Wednesday, October 31, 4:00-5:00 p.m.
+##"Big data: yesterday, today, and tomorrow"
 
 Diego Klabjan, PhD, Professor of Industrial Engineering and Management Sciences
 
@@ -25,8 +25,8 @@ Lakeview Conference Room, Rubloff Building, 11th Floor, 750 N Lake Shore Drive, 
 
 
 
-##Thursday, November 1, 4:00-5:00 p.m.
-###"Deploying translational bioinformatics approaches in RNA sequencing"
+### Thursday, November 1, 4:00-5:00 p.m.
+##"Deploying translational bioinformatics approaches in RNA sequencing"
 
 Yves Lussier, MD, Professor of Medicine and Engineering
 
@@ -34,8 +34,8 @@ Lakeview Conference Room, Rubloff Building, 11th Floor, 750 N Lake Shore Drive, 
 
 
 
-##Friday, November 2, 4:00-5:00 p.m.
-###(Presentation TBD)
+### Friday, November 2, 4:00-5:00 p.m.
+##(Presentation TBD)
 
 Sam Volchenboum, MD, PhD, Assistant Professor of Pediatrics
 
@@ -43,7 +43,7 @@ Lakeview Conference Room, Rubloff Building, 11th Floor, 750 N Lake Shore Drive, 
 
 
 
-##November 3-7: AMIA 36th Annual Symposium on Biomedical informatics
+### November 3-7: AMIA 36th Annual Symposium on Biomedical informatics
 
 The [AMIA Annual Symposium](http://www.amia.org/amia2012) is the world's premier scientific meeting for biomedical and health informatics.  Informatics Week attendees are invited to:
 
