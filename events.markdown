@@ -5,16 +5,6 @@ title: Events
 
 Informatics Week in Chicago is made possible through the generous support and hard work of our Sponsors.  Activities will provide opportunities to learn more about informatics as a field, learn about career opportunities, and see cutting-edge research.  To include an activity on this list, [send us the details](mailto:informatics-webmaster@nubic.northwestern.edu) and include a contact for further information.
 
-### August 31: Call for Student Volunteers: Registration Waived to AMIA 2012 Symposium
-
-Deadline: Friday, August 31
-
-Registration fees are waived for volunteers who make the team! Free tutorial and free sessions.
-
-AMIA has now opened the call for current student members who would like to take part in the student volunteer program at the 2012 AMIA Annual Symposium, November 3-7.  [Apply now](http://www.amia.org/amia2012/student-volunteer) to become part of one of the biggest networking opportunities that AMIA has to offer!  You can meet VIP's from the informatics world, mingle with other students from across the country, attend tutorials and sessions for free, and learn how an AMIA meeting is run from behind-the-scenes.
-
-Please [apply today](http://www.amia.org/amia2012/student-volunteer) - all applicants will be notified of volunteer decisions on Tuesday, September 11, 2012.
-
 ##Tuesday, October 30, 4:00-5:00 p.m.
 ### Informatics Jam Session
 
