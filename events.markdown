@@ -68,4 +68,4 @@ More Information:
 
 Mayor Emmanuel has declared October 30 - November 7 as "Chicago Informatics Week," and the annual meeting of the American Medical Informatics Association (AMIA) is in Chicago from November 3-7.  Rush University and the University of Illinois at Chicago (UIC) are academic sponsors of Chicago Informatics Week.  To celebrate, both universities are hosting this event.
 
-Questions should be directed to Shannon Sims at (shannon_sims@rush.edu).
+Questions should be directed to Shannon Sims at [shannon_sims@rush.edu].
