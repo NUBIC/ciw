@@ -12,8 +12,7 @@ Informatics Week in Chicago is made possible through the generous support and ha
 Please join the University of Illinois at Chicago (UIC) for the following webinar:
 
 Neil R. Smalheiser - "Informatics Tools to Facilitate Evidence Based Medicine"
-Space is limited!  Reserve your Webinar seat at: (http://img.gotomeeting.com/g2mimages/webinar/themes/basic/button_registerN=
-ow.gif) ](https://www1.gotomeeting.com/register/949781681)
+Space is limited!  Reserve your Webinar seat at: (https://www1.gotomeeting.com/register/949781681)
 
 After registering you will reserve a confirmation email containing information regarding joining the Webinar.
 
@@ -84,4 +83,4 @@ More Information:
 
 Mayor Emmanuel has declared October 30 - November 7 as "Chicago Informatics Week," and the annual meeting of the American Medical Informatics Association (AMIA) is in Chicago from November 3-7.  Rush University and the University of Illinois at Chicago (UIC) are academic sponsors of Chicago Informatics Week.  To celebrate, both universities are hosting this event.
 
-Questions should be directed to Shannon Sims at [shannon_sims@rush.edu].
+Questions should be directed to [Shannon Sims](shannon_sims@rush.edu).
