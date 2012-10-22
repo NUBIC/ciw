@@ -5,6 +5,22 @@ title: Events
 
 Informatics Week in Chicago is made possible through the generous support and hard work of our Sponsors.  Activities will provide opportunities to learn more about informatics as a field, learn about career opportunities, and see cutting-edge research.  To include an activity on this list, [send us the details](mailto:informatics-webmaster@nubic.northwestern.edu) and include a contact for further information.
 
+
+### Monday, October 29, 12:00-1:00 p.m., CDT
+### Biomedical Health Informatics Colloquium - Webinar
+
+Please join the University of Illinois at Chicago (UIC) for the following webinar:
+
+Neil R. Smalheiser - "Informatics Tools to Facilitate Evidence Based Medicine"
+Space is limited!  Reserve your Webinar seat at: (http://img.gotomeeting.com/g2mimages/webinar/themes/basic/button_registerN=
+ow.gif) ](https://www1.gotomeeting.com/register/949781681)
+
+After registering you will reserve a confirmation email containing information regarding joining the Webinar.
+
+The address to attend the Webinar at UIC:  College of Medicine Research, 909 S. Wolcott, Room 5175, Chicago, IL 60612.
+
+
+
 ### Tuesday, October 30, 4:00-5:00 p.m.
 ### Informatics Jam Session
 
