@@ -12,9 +12,8 @@ Informatics Week in Chicago is made possible through the generous support and ha
 Please join the University of Illinois at Chicago (UIC) for the following webinar:
 
 Neil R. Smalheiser - "Informatics Tools to Facilitate Evidence Based Medicine"
-Space is limited!  Reserve your Webinar seat at: [ ![Register
-now](http://img.gotomeeting.com/g2mimages/webinar/themes/basic/button_registerN=
-ow.gif) ](https://www1.gotomeeting.com/register/949781681)
+Space is limited!  Reserve your Webinar seat at: [Register
+now](https://www1.gotomeeting.com/register/949781681)
 
 
 After registering you will reserve a confirmation email containing information regarding joining the Webinar.
