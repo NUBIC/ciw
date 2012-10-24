@@ -12,15 +12,14 @@ Informatics Week in Chicago is made possible through the generous support and ha
 Please join the University of Illinois at Chicago (UIC) for the following webinar:
 
 Neil R. Smalheiser - "Informatics Tools to Facilitate Evidence Based Medicine"
-Space is limited!  Reserve your Webinar seat at: [Register
-now](https://www1.gotomeeting.com/register/949781681)
+Space is limited!
+
+[ ![Register now](http://img.gotomeeting.com/g2mimages/webinar/themes/basic/button_registerNow.gif) ](https://www1.gotomeeting.com/register/949781681) to reserve your Webinar seat.
 
 
 After registering you will reserve a confirmation email containing information regarding joining the Webinar.
 
 The address to attend the Webinar at UIC:  College of Medicine Research, 909 S. Wolcott, Room 5175, Chicago, IL 60612.
-
-
 
 ### Tuesday, October 30, 4:00-5:00 p.m.
 ### Informatics Jam Session
@@ -31,8 +30,6 @@ Northwestern researchers will highlight their informatics research during a roun
 
 A reception will follow in the Atrium.
 
-
-
 ### Wednesday, October 31, 12:00-1:30 p.m.
 ### Illinois Medical District Informatics Colloquium
 
@@ -41,16 +38,12 @@ Searle Conference Center, Billings Room, Professional Bldg., 5th Floor, Rush Uni
 The Illinois Medical District Informatics Colloquium will bring together informatics researchers and operational staff from the University of Illinois at Chicago (UIC), Rush University, and Stroger Hospital.  Using a rapid-fire set of presentations, attendees will learn about informatics research, cutting edge operational projects, and be able to network with colleagues from the Illinois Medical Center.  Ten speakers will provide five-minute presentations followed by time for questions and networking. Lunch will be provided.
 Directions, parking, and public transport information is available [here:](http://www.rush.edu/rumc/page-1239655985905.html)
 
-
-
 ### Wednesday, October 31, 4:00-5:00 p.m.
 ### "Big data: yesterday, today, and tomorrow"
 
 Diego Klabjan, PhD, Professor of Industrial Engineering and Management Sciences, Northwestern University
 
 Lakeview Conference Room, Rubloff Building, 11th Floor, 750 N Lake Shore Drive, Chicago, IL
-
-
 
 ### Thursday, November 1, 4:00-5:00 p.m.
 ### "Deploying translational bioinformatics approaches in RNA sequencing"
@@ -59,16 +52,12 @@ Yves Lussier, MD, Professor of Medicine and Engineering, University of Illinois 
 
 Lakeview Conference Room, Rubloff Building, 11th Floor, 750 N Lake Shore Drive, Chicago, IL
 
-
-
 ### Friday, November 2, 4:00-5:00 p.m.
 ### (Presentation TBD)
 
 Sam Volchenboum, MD, PhD, Assistant Professor of Pediatrics, University of Chicago
 
 Lakeview Conference Room, Rubloff Building, 11th Floor, 750 N Lake Shore Drive, Chicago, IL
-
-
 
 ### November 3-7: AMIA 36th Annual Symposium on Biomedical informatics
 
@@ -78,7 +67,6 @@ The [AMIA Annual Symposium](http://www.amia.org/amia2012) is the world's premier
 * attend [presentations by Chicago Informatics Week Sponsors (full list PDF)](./chicago-talks-2.pdf)
 *	attend the AMIA 2012 Networking Meetup (Monday, November 5)
 *	Join us for the entire meeting and take advantage of special rates*
-
 
 \* if you are a member of any of the Organizational Sponsors or a student at any of the Academic sponsor programs, please communicate to AMIA staff when registering.
 
