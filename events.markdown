@@ -53,7 +53,7 @@ Yves Lussier, MD, Professor of Medicine and Engineering, University of Illinois 
 Lakeview Conference Room, Rubloff Building, 11th Floor, 750 N Lake Shore Drive, Chicago, IL
 
 ### Friday, November 2, 4:00-5:00 p.m.
-### (Presentation TBD)
+### "Development of an open-source, flexible framework for complex inter-institutional data sharing and collaboration."
 
 Sam Volchenboum, MD, PhD, Assistant Professor of Pediatrics, University of Chicago
 
