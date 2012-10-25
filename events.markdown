@@ -43,7 +43,9 @@ Searle Conference Center, Billings Room, Professional Bldg., 5th Floor, Rush Uni
 
 The Illinois Medical District Informatics Colloquium will bring together informatics researchers and operational staff from the University of Illinois at Chicago (UIC), Rush University, and Stroger Hospital.  Using a rapid-fire set of presentations, attendees will learn about informatics research, cutting edge operational projects, and be able to network with colleagues from the Illinois Medical Center.  Ten speakers will provide five-minute presentations followed by time for questions and networking. Lunch will be provided.
 Directions, parking, and public transport information is available [here:](http://www.rush.edu/rumc/page-1239655985905.html)
+
 Click [here](https://www.surveymonkey.com/s/IMDInformaticsRSVP) to register
+
 
 ### Wednesday, October 31, 4:00-5:00 p.m.
 ### "Big data: yesterday, today, and tomorrow"
@@ -51,21 +53,21 @@ Click [here](https://www.surveymonkey.com/s/IMDInformaticsRSVP) to register
 Diego Klabjan, PhD, Professor of Industrial Engineering and Management Sciences, Northwestern University
 
 Lakeview Conference Room, Rubloff Building, 11th Floor, 750 N Lake Shore Drive, Chicago, IL
-
+___________________________________________________________
 ### Thursday, November 1, 4:00-5:00 p.m.
 ### "Deploying translational bioinformatics approaches in RNA sequencing"
 
 Yves Lussier, MD, Professor of Medicine and Engineering, University of Illinois at Chicago
 
 Lakeview Conference Room, Rubloff Building, 11th Floor, 750 N Lake Shore Drive, Chicago, IL
-
+____________________________________________________________
 ### Friday, November 2, 4:00-5:00 p.m.
 ### "Development of an open-source, flexible framework for complex inter-institutional data sharing and collaboration."
 
 Sam Volchenboum, MD, PhD, Assistant Professor of Pediatrics, University of Chicago
 
 Lakeview Conference Room, Rubloff Building, 11th Floor, 750 N Lake Shore Drive, Chicago, IL
-
+_____________________________________________________________
 ### November 3-7: AMIA 36th Annual Symposium on Biomedical informatics
 
 The [AMIA Annual Symposium](http://www.amia.org/amia2012) is the world's premier scientific meeting for biomedical and health informatics.  Informatics Week attendees are invited to:
