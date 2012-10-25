@@ -20,7 +20,7 @@ Space is limited!
 After registering you will reserve a confirmation email containing information regarding joining the Webinar.
 
 The address to attend the Webinar at UIC:  College of Medicine Research, 909 S. Wolcott, Room 5175, Chicago, IL 60612.
-
+_______________________________________________________
 ### Tuesday, October 30, 4:00-5:00 p.m.
 ### Informatics Jam Session
 
