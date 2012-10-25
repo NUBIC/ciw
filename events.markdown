@@ -44,7 +44,8 @@ Searle Conference Center, Billings Room, Professional Bldg., 5th Floor, Rush Uni
 The Illinois Medical District Informatics Colloquium will bring together informatics researchers and operational staff from the University of Illinois at Chicago (UIC), Rush University, and Stroger Hospital.  Using a rapid-fire set of presentations, attendees will learn about informatics research, cutting edge operational projects, and be able to network with colleagues from the Illinois Medical Center.  Ten speakers will provide five-minute presentations followed by time for questions and networking. Lunch will be provided.
 Directions, parking, and public transport information is available [here:](http://www.rush.edu/rumc/page-1239655985905.html)
 
-Click [here](https://www.surveymonkey.com/s/IMDInformaticsRSVP) to register
+Click [here](https://www.surveymonkey.com/s/IMDInformaticsRSVP) to register for this event.
+
 
 
 ### Wednesday, October 31, 4:00-5:00 p.m.
