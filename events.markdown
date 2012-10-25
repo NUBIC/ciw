@@ -29,7 +29,7 @@ Prentice Women's Hospital, 250 E Superior, Chicago, IL, 3rd Floor, Conference Ro
 Northwestern researchers will highlight their informatics research during a round of 60-90 second speed seminars.
 
 A reception will follow in the Atrium.
-
+________________________________________________________
 
 ### Wednesday, October 31, 10:00 a.m., 750 N Lake Shore Dr, Rubloff Bldg., 11th Floor, Lakeview Conference Room
 ### "The Multiscale Analysis of the Complex Injury Response in Multiple Organ Systems"
@@ -43,6 +43,7 @@ Searle Conference Center, Billings Room, Professional Bldg., 5th Floor, Rush Uni
 
 The Illinois Medical District Informatics Colloquium will bring together informatics researchers and operational staff from the University of Illinois at Chicago (UIC), Rush University, and Stroger Hospital.  Using a rapid-fire set of presentations, attendees will learn about informatics research, cutting edge operational projects, and be able to network with colleagues from the Illinois Medical Center.  Ten speakers will provide five-minute presentations followed by time for questions and networking. Lunch will be provided.
 Directions, parking, and public transport information is available [here:](http://www.rush.edu/rumc/page-1239655985905.html)
+Click [here](https://www.surveymonkey.com/s/IMDInformaticsRSVP) to register
 
 ### Wednesday, October 31, 4:00-5:00 p.m.
 ### "Big data: yesterday, today, and tomorrow"
