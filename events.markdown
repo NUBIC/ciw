@@ -30,6 +30,12 @@ Northwestern researchers will highlight their informatics research during a roun
 
 A reception will follow in the Atrium.
 
+
+### Wednesday, October 31, 10:00 a.m., 750 N Lake Shore Dr, Rubloff Bldg., 11th Floor, Lakeview Conference Room
+### "The Multiscale Analysis of the Complex Injury Response in Multiple Organ Systems"
+
+Junhee Seok, PhD, Postdoctoral Fellow, Stanford University
+
 ### Wednesday, October 31, 12:00-1:30 p.m.
 ### Illinois Medical District Informatics Colloquium
 
