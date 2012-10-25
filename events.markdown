@@ -21,6 +21,19 @@ After registering you will reserve a confirmation email containing information r
 
 The address to attend the Webinar at UIC:  College of Medicine Research, 909 S. Wolcott, Room 5175, Chicago, IL 60612.
 _______________________________________________________
+### Tuesday, October 30, 12:00 p.m.
+### EECS Seminar: Informatics Career
+
+Location: TECH L324, Northwestern University's Evanston, IL Campus
+
+
+Justin Starren, MD, PhD, Chief of the Division of Health and Biomedical Informatics, Director Northwestern University Biomedical Informatics Center (NUBIC), and Director of the new PhD program in Health and Biomedical Informatics, Northwestern University
+
+As part of Informatics Week, the Division of Health and Biomedical Informatics will be offering career talks about Informatics as a career. Informatics is the study of information: how you collect it, organize it, and use it to solve problems.  Health and Biomedical Informatics (identified as one of the hottest growth fields in many publications), is informatics applied to healthcare and biomedical rsearch, and developing better methods to user data, information, and knowledge to solve practical problems in healthcare and biomedical research.  The career talk will last approximately 30 minutes, allowing time for questions.
+
+A lunch (pizza/sodas) will be served at 11:50 a.m., and is being sponsored by Division of Health and Biomedical Informatics (HBMI).
+
+
 ### Tuesday, October 30, 4:00-5:00 p.m.
 ### Informatics Jam Session
 
