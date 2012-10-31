@@ -92,6 +92,19 @@ sponsors:
       content:
         - "Founded in 1965, <a href='http://www.cmss.org/'>CMSS</a> was created to provide an independent forum for the discussion by medical specialists of issues of  national interest and mutual concern. Today, CMSS represents thirty-nine societies with an aggregate membership  of 700,000 U.S. physicians."
         - "Its main purpose is to provide a forum for collaboration to influence policy, medical education and accreditation from a broad, cross-specialty perspective. CMSS is the unified voice for specialty societies established to improve the United States' healthcare system and health of the public."
+  social:
+    - name: Alliance for Nursing Informatics
+      acronym: ani
+      image: ./images/ani-logo.png
+      link: http://www.allianceni.org/
+      content:
+        - "<a href='http://www.allianceni.org'>Alliance for Nursing Informatics</a> seeks to advance nursing informatics leadership, practice, education, policy and research through a unified voice of nursing informatics organizations."
+    - name: Healthcare Information and Management Systems Society
+      acronym: himss
+      image: ./images/himss-logo.png
+      link: http://www.himss.org
+      content:
+        - "<a href='http://www.himss.org'>HIMSS</a> is a cause-based, not-for-profit organization exclusively focused on providing global leadership for the optimal use of information technology (IT) and management systems for the betterment of healthcare. <a href='http://blog.himss.org/tag/informatics/'>HIMSS</a> and <a href='http://blog.himss.org/tag/alliance-for-nursing-informatics/'>ANI</a> are teaming up to support the Chicago Informatics Week effort by blogging about the activities."
 ---
 
 <h3 class='sponsors'>Host City Sponsors</h3>
@@ -138,6 +151,26 @@ sponsors:
 
 <ul class='sponsors'>
   {% for sponsor in page.sponsors.organizational %}
+  <li class='{{ sponsor.acronym }}'>
+    <div class='logo'>
+      <a href='{{ sponsor.link }}'>
+        <img src='{{ sponsor.image }}' alt='{{ sponsor.name }}'/>
+      </a>
+    </div>
+    <div class='description'>
+      {% for paragraph in sponsor.content %}
+      <p>{{ paragraph }}</p>
+      {% endfor %}
+    </div>
+    <br class='clear'/>
+  </li>
+  {% endfor %}
+</ul>
+
+<h3 class='sponsors'>Social Media Sponsors</h3>
+
+<ul class='sponsors'>
+  {% for sponsor in page.sponsors.social %}
   <li class='{{ sponsor.acronym }}'>
     <div class='logo'>
       <a href='{{ sponsor.link }}'>
