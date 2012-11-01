@@ -68,6 +68,7 @@ Diego Klabjan, PhD, Professor of Industrial Engineering and Management Sciences,
 
 Lakeview Conference Room, Rubloff Building, 11th Floor, 750 N Lake Shore Drive, Chicago, IL
 ___________________________________________________________
+### PLEASE NOTE: THIS LECTURE IS CANCELED.
 ### Thursday, November 1, 4:00-5:00 p.m.
 ### "Deploying translational bioinformatics approaches in RNA sequencing"
 
