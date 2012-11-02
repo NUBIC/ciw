@@ -99,3 +99,23 @@ More Information:
 Mayor Emmanuel has declared October 30 - November 7 as "Chicago Informatics Week," and the annual meeting of the American Medical Informatics Association (AMIA) is in Chicago from November 3-7.  Rush University and the University of Illinois at Chicago (UIC) are academic sponsors of Chicago Informatics Week.  To celebrate, both universities are hosting this event.
 
 Questions should be directed to [Shannon Sims](mailto:shannon_sims@rush.edu).
+
+
+### INFORMATICS WEEK "WRAP UP"
+
+Informatics Week will wrap up with an in-depth tutorial on the I2B2 software.
+
+We will describe a step by step approach to implementing i2b2 at your institution, what technologies are used and any third party software that is required, such as application or database servers. We will continue by writing a new analytic "cell" and leveraging advanced services such as
+natural language processing. The new cell will be a fully working i2b2cell that can receive and respond to i2b2 calls. Once the cell has been developed, an i2b2 webclient plugin will be developed that sends a message to the cell and displays the response. We conclude with a roadmap
+for the near term and longer term i2b2 developments.
+
+Due to the complex nature of this tutorial, the participants should download and install the tutorial Virtual Machine (VM; see below) prior to attending. The VM will run on any Windows or Macintosh machine and will contain a complete and installed i2b2 server, i2b2 webclient,
+application server, database server and any developments needed. A completed cell and plugin will also be included.
+
+Prerequisites: The participant should download and install the source code of the "i2b2 Tutorial" that is available for download [here](https://www.i2b2.org/software/ctsa2012.html) prior to arriving at the workshop.
+
+Intended Audience: Scientists; researchers; healthcare analysts, database programmers, and other healthcare professionals; academic faculty or professionals setting up bioinformatics facilities and/or relating these to clinical data repositories and computer scientists, system developers,
+and programmers.
+
+The workshop is free, but preregistration is required.  Contact [Susanne Churchill](mailto:SCHURCHILL@PARTNERS.ORG).
+
