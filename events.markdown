@@ -104,7 +104,7 @@ _____________________________________________________________
 ### Monday, November 5, 6:30-8:00 p.m.
 ### INFORMATICS MEET-UP!
 
-This is a chance to meet up and network with other Informatics professionals from Chicago and around the world!  The meet-up will take place during the AMIA Symposium, but registration for the symposium is not required.
+This is a chance to meet up and network with other Informatics professionals from around Chicago and around the world!  The meet-up will take place during the AMIA Symposium, but registration for the symposium is not required.
 
 Time:  6:30 p.m. - 8:00 p.m.
 
